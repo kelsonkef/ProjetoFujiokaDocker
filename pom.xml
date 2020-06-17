@@ -19,10 +19,10 @@
 
 	<properties>
 		<java.version>11</java.version>
-		<sonar.projectKey>cursomc</sonar.projectKey>
+		<sonar.projectKey>projetofuji</sonar.projectKey>
 		<!-- <sonar.organization> evertonfreitas377 </sonar.organization> -->
-		<sonar.host.url>http://ip172-18-0-19-brkkdr3oudsg0095e9r0-9000.direct.labs.play-with-docker.com </sonar.host.url>
-		<sonar.login>5e54c2a148bd33853cbd4a300721d101190f6f2f</sonar.login>
+		<sonar.host.url>http://ip172-18-0-34-brkla8tim9m000dkb0lg-9000.direct.labs.play-with-docker.com </sonar.host.url>
+		<sonar.login>30211a81b98fca2fa8d91cc196e92b2866756495</sonar.login>
 	</properties>
 
 
